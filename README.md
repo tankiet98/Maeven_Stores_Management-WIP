@@ -1,4 +1,4 @@
-### **Maeven_Store_Management**
+### **Maeven Stores Management**
 
 - Project Objective:
 
